@@ -1,0 +1,11 @@
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\bin\Debug\THA_W3_Alfred_W.exe.config
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\bin\Debug\THA_W3_Alfred_W.exe
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\bin\Debug\THA_W3_Alfred_W.pdb
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.csproj.AssemblyReference.cache
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.csproj.SuggestedBindingRedirects.cache
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.Form1.resources
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.Properties.Resources.resources
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.csproj.GenerateResource.cache
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.csproj.CoreCompileInputs.cache
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.exe
+C:\Programming\School\C#\THA_W3_Alfred_W\THA_W3_Alfred_W\obj\Debug\THA_W3_Alfred_W.pdb
